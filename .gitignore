@@ -1,0 +1,5 @@
+venv/
+final_fine_tuned_bert_2_class/
+__pycache__/
+*.pyc
+.devcontainer/
